@@ -70,5 +70,5 @@ dependencies {
     kapt 'com.github.bumptech.glide:compiler:4.14.2'
 
     // Google Play Services
-    implementation 'com.google.android.gms:play-services-auth:20.3.0'
+    // implementation 'com.google.android.gms:play-services-auth:20.3.0'
 }
