@@ -68,7 +68,7 @@ and your certification will be on them. You can read about them [here](https://d
 - Coroutines
 - ViewBinding
 - Navigation Components
-- etc.
+- etc. 
 
 # How to use this repo
 
